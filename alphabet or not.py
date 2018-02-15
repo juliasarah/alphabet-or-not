@@ -1,4 +1,4 @@
-ch =('m')
+ch =raw_input("")
 
 if(ch>='a' and ch<= 'z'):
  
